@@ -49,6 +49,7 @@ Breaking News : A cat celebrates at Red Fort.
 ## 📁 Project Structure
 
 fake-news-headline-generator/
+
 │
 
 ├── fake_news.ipynb # Jupyter notebook with code
