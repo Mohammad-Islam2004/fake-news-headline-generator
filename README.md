@@ -31,9 +31,13 @@ This project is a fun Python-based fake news headline generator that creates ran
 ## 📓 Example Output
 
 Breaking News : Shahrukh Khan launches during IPL match.
+
 Breaking News : A group of monkeys eats a plate of samosa.
+
 Breaking News : Prime Minister  eats at India Gate.
+
 Breaking News : A cat celebrates at Red Fort.
+
 
 ## 🛠️ Technologies Used
 
@@ -46,6 +50,8 @@ Breaking News : A cat celebrates at Red Fort.
 
 fake-news-headline-generator/
 │
+
 ├── fake_news.ipynb # Jupyter notebook with code
+
 ├── README.md # Project documentation (you are here)
 
